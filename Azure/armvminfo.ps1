@@ -1,5 +1,5 @@
 param(
-    [string]$tenantId="c3ee3519-57e6-471b-bc4b-57c422e89a62",
+    [string]$tenantId="",
     [string]$file="e:\Azure-ARM-VMs.csv"
 ) 
 
